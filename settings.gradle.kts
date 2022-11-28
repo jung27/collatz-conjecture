@@ -1,0 +1,3 @@
+
+rootProject.name = "collatz-conjecture"
+
