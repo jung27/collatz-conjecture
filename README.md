@@ -1,2 +1,4 @@
 # collatz-conjecture
-Collatz conjecture is in Minecraft!
+콜라츠 추측을 마인크래프트 내에서 그래프화시켜주는 플러그인입니다.
+
+좌표가 하드코딩 되어있으므로 반드시 함께 배포된 맵에서 실행 해주시길 바랍니다.
